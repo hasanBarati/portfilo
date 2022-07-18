@@ -1,5 +1,5 @@
 import {MdArrowRightAlt} from "react-icons/md";
-import HeraoImage from '../assets/heroImage.png'
+import HeraoImage from '../assets/myimage.jpg'
 export const Home=()=>{
     return(
         <div name="home" className="md:h-screen w-full bg-gradient-to-b pb-20 from-black to-gray-800">
